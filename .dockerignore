@@ -1,0 +1,4 @@
+.git
+build
+docker
+!docker/test.sh
